@@ -19,7 +19,7 @@ assignees: ''
 #### Point of Contact/Reviewers
 
 ### [QA Standards](https://depo-platform-documentation.scrollhelp.site/developer-docs/quality-assurance-standards) 
-For each Standard Area below, check the box if the product satisfies the requirement. If not, leave a note explaining why the Standard Area has not been met.
+For each Standard Area below, check the corresponding box if the product satisfies the standard. If not, leave a note explaining why the requirements of the Standard Area have not been met.
 - [ ]  Regression Test Plan 
 
 ---
