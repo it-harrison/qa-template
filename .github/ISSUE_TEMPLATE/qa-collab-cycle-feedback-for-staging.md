@@ -36,6 +36,8 @@ For each Standard Area below, check the corresponding box if the product satisfi
 
 ---
 
+### Recommendation and additional information
+
 ### VFS Guidance
 
 - Close the ticket when the issue has been resolved or validated by your Product Owner
