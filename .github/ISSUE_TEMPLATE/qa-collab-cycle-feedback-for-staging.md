@@ -22,27 +22,27 @@ assignees: ''
 #### Regression Test Plan 
 - [ ] Standard has been met
 - [ ] Standard has not been met
-   Explanation of failure to meet standard (if applicable):
+- Explanation of failure to meet standard (if applicable):
 ---
 #### Test Plan
 - [ ] Standard has been met
 - [ ] Standard has not been met
-     Explanation of failure to meet standard (if applicable):
+-  Explanation of failure to meet standard (if applicable):
 ---
 #### Traceability Reports 
 - [ ] Standard has been met
 - [ ] Standard has not been met
-     Explanation of failure to meet standard (if applicable):
+- Explanation of failure to meet standard (if applicable):
 ---
 #### E2E Test Participation
 - [ ] Standard has been met
 - [ ] Standard has not been met
-     Explanation of failure to meet standard (if applicable):
+- Explanation of failure to meet standard (if applicable):
 ---
 #### Unit Test Coverage 
 - [ ] Standard has been met
 - [ ] Standard has not been met
-     Explanation of failure to meet standard (if applicable):
+- Explanation of failure to meet standard (if applicable):
 
 ### VFS Guidance
 
