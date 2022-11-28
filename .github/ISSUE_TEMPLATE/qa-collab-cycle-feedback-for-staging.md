@@ -43,7 +43,7 @@ assignees: ''
 - [ ] Standard has been met
 - [ ] Standard has not been met
 - Explanation of failure to meet standard (if applicable):
-
+- Close the ticket when your Product Owner validates that you have sufficiently met the QA Standards.
 ### VFS Guidance
 
 - Close the ticket when your Product Owner validates that you have sufficiently met the QA Standards.
