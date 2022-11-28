@@ -17,33 +17,29 @@ assignees: ''
 #### VFS feature name
 
 #### Point of Contact/Reviewers
-
+---
 ### [QA Standards](https://depo-platform-documentation.scrollhelp.site/developer-docs/quality-assurance-standards) 
 #### Regression Test Plan 
 - [ ] Standard has been met
 - [ ] Standard has not been met
 - Explanation of failure to meet standard (if applicable):
----
 #### Test Plan
 - [ ] Standard has been met
 - [ ] Standard has not been met
 -  Explanation of failure to meet standard (if applicable):
----
 #### Traceability Reports 
 - [ ] Standard has been met
 - [ ] Standard has not been met
 - Explanation of failure to meet standard (if applicable):
----
 #### E2E Test Participation
 - [ ] Standard has been met
 - [ ] Standard has not been met
 - Explanation of failure to meet standard (if applicable):
----
 #### Unit Test Coverage 
 - [ ] Standard has been met
 - [ ] Standard has not been met
 - Explanation of failure to meet standard (if applicable):
-- Close the ticket when your Product Owner validates that you have sufficiently met the QA Standards.
+
 ### VFS Guidance
 
 - Close the ticket when your Product Owner validates that you have sufficiently met the QA Standards.
