@@ -19,28 +19,36 @@ assignees: ''
 #### Point of Contact/Reviewers
 
 ### [QA Standards](https://depo-platform-documentation.scrollhelp.site/developer-docs/quality-assurance-standards) 
-For each Standard Area below, check the corresponding box if the product satisfies the standard. If not, leave a note explaining why the requirements of the Standard Area have not been met.
-- [ ]  Regression Test Plan 
-
+If the requirements for a Standard Area have not been met, 
+ #### Regression Test Plan 
+- [ ] Standard has been met
+- [ ] Standard has not been met
+   Explanation of failure to meet standard (if applicable):
 ---
-- [ ] Test Plan  
-
+#### Test Plan
+- [ ] Standard has been met
+- [ ] Standard has not been met
+     Explanation of failure to meet standard (if applicable):
 ---
-- [ ] Traceability Reports 
-
+#### Traceability Reports 
+- [ ] Standard has been met
+- [ ] Standard has not been met
+     Explanation of failure to meet standard (if applicable):
 ---
-- [ ] E2E Test Participation
-
+#### E2E Test Participation
+- [ ] Standard has been met
+- [ ] Standard has not been met
+     Explanation of failure to meet standard (if applicable):
 ---
-- [ ] Unit Test Coverage 
-
+#### Unit Test Coverage 
+- [ ] Standard has been met
+- [ ] Standard has not been met
+     Explanation of failure to meet standard (if applicable):
 ---
-
-### Recommendation and additional information
 
 ### VFS Guidance
 
-- Close the ticket when the issue has been resolved or validated by your Product Owner
+- Close the ticket when your Product Owner validates that you have sufficiently met the QA Standards.
 - If your team has additional questions or needs Platform help validating the issue, please comment on the ticket
 - Some feedback provided may be out of scope for your iteration of the product, however, Platform's OCTO leadership has stated that all identified issues need to be documented and it is still your responsibility to resolve the issue.
 - If you do not believe that this Staging Review issue ticket is the responsibility of your team, comment below providing an explanation and who you believe is responsible. Please tag the Point of Contact/Reviewers. Governance team will research and will follow up.
