@@ -19,8 +19,7 @@ assignees: ''
 #### Point of Contact/Reviewers
 
 ### [QA Standards](https://depo-platform-documentation.scrollhelp.site/developer-docs/quality-assurance-standards) 
-If the requirements for a Standard Area have not been met, 
- #### Regression Test Plan 
+#### Regression Test Plan 
 - [ ] Standard has been met
 - [ ] Standard has not been met
    Explanation of failure to meet standard (if applicable):
@@ -44,7 +43,6 @@ If the requirements for a Standard Area have not been met,
 - [ ] Standard has been met
 - [ ] Standard has not been met
      Explanation of failure to meet standard (if applicable):
----
 
 ### VFS Guidance
 
