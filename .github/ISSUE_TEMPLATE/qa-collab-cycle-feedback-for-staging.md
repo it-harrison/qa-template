@@ -3,7 +3,7 @@ name: QA Collab Cycle Feedback for Staging
 about: Staging feedback template for Collaboration Cycle reviewers to provide QA feedback
   to VFS teams
 title: ''
-labels: collab-cycle-feedback, QA, qa-collab-cycle-feedback, Staging
+labels: collab-cycle-feedback, QA, QA-standards, Staging
 assignees: ''
 
 ---
@@ -22,23 +22,23 @@ assignees: ''
 #### Regression Test Plan 
 - [ ] Standard has been met
 - [ ] Standard has not been met
-- Explanation of failure to meet standard (if applicable):
+##### Explanation of failure to meet standard (if applicable): #####
 #### Test Plan
 - [ ] Standard has been met
 - [ ] Standard has not been met
--  Explanation of failure to meet standard (if applicable):
+##### Explanation of failure to meet standard (if applicable): #####
 #### Traceability Reports 
 - [ ] Standard has been met
 - [ ] Standard has not been met
-- Explanation of failure to meet standard (if applicable):
+##### Explanation of failure to meet standard (if applicable): #####
 #### E2E Test Participation
 - [ ] Standard has been met
 - [ ] Standard has not been met
-- Explanation of failure to meet standard (if applicable):
+##### Explanation of failure to meet standard (if applicable): #####
 #### Unit Test Coverage 
 - [ ] Standard has been met
 - [ ] Standard has not been met
-- Explanation of failure to meet standard (if applicable):
+##### Explanation of failure to meet standard (if applicable): #####
 ---
 ### VFS Guidance
 
